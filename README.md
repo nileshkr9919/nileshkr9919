@@ -11,11 +11,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning Web Development
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/nilesh-kr/)  [Twitter](https://twitter.com/nileshkr9919) [Instagram](https://www.instagram.com/nilesh_k_r__/)
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
