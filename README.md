@@ -4,7 +4,6 @@ Hi 👋 My name is Nilesh Kumar
 Full Stack Web Application Developer
 ------------------------------------
 
-* 🖥️  See my portfolio at [My Portfolio](http://nilesh-kr.me)
 * ✉️  You can contact me at [nileshkr9919@gmail.com](mailto:nileshkr9919@gmail.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Interesting Projects
