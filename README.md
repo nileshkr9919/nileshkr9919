@@ -5,8 +5,6 @@ Full Stack Web Application Developer
 ------------------------------------
 
 * ✉️  You can contact me at [nileshkr9919@gmail.com](mailto:nileshkr9919@gmail.com)
-* 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.twitter.com/nileshkr9919" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nileshkr9919?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
