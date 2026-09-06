@@ -1,7 +1,7 @@
 ## Nilesh Kumar
 
-Backend engineer working on payments and distributed systems. Currently founding engineer at
-**BON Credit**, a consumer fintech — I own subscription billing on Stripe, the bank and bureau
+Backend engineer working on payments and distributed systems. Currently founding engineer at an
+early-stage consumer fintech, where I own subscription billing on Stripe, the bank and bureau
 integrations behind it, and the money-movement alerting that sits on top.
 
 Most of what I do is correctness under concurrency: idempotent webhook processing, deduplication
